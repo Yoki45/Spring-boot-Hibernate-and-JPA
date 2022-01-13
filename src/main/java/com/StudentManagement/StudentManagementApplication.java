@@ -1,7 +1,7 @@
 package com.StudentManagement;
 
-import com.StudentManagement.models.Student;
-import com.StudentManagement.repository.StudentRepository;
+import com.StudentManagement.models.*;
+import com.StudentManagement.repository.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
